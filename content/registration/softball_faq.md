@@ -1,7 +1,6 @@
 ---
 title: "Softball FAQ"
 date: 2018-01-25T23:04:27-05:00
-draft: true
 ---
 
 The Softball Season is right around the corner! Online registration will continue without a late fee until March 15. 

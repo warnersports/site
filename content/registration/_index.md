@@ -2,7 +2,6 @@
 title: "Registration"
 date: 2018-01-25T23:08:11-05:00
 type: fake-single
-draft: true
 ---
 
 ## Current Sports

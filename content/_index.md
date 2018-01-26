@@ -1,7 +1,13 @@
 ---
 title: "Warner Youth Sports Association"
 date: 2018-01-26T00:02:50-05:00
-draft: true
+
+# these pages are disabled, so redirect to root page to prevent a 404
+aliases:
+    - /warrenmiller/
+    - /golf/
+    - /events/
+    - /events/run_walk_5k
 ---
 
 <link href="/css/wysa.css" rel="stylesheet">
