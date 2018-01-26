@@ -1,0 +1,8 @@
+open:
+- name: Softball
+  regLink: https://go.teamsnap.com/forms/103127
+  extra: (<a href="http://localhost:1313/registration/softball_faq">FAQ</a>) - $55 first child, $30 each additional
+
+- name: Baseball/T-ball
+  regLink: https://go.teamsnap.com/forms/103130
+  extra: "- $55 first child, $30 each additional"
