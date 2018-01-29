@@ -1,0 +1,15 @@
+language: node_js
+
+install:
+- wget https://github.com/gohugoio/hugo/releases/download/v0.34/hugo_0.34_Linux-64bit.tar.gz
+- tar -zxf hugo*.tar.gz -C /tmp/hugo
+
+script:
+- hugo
+
+deploy:
+  provider: firebase
+  token:
+    secure: "rLqoEjJ1zANH9WyLIRpOX7RCepYV77BCGGdjTpDKzJ//nLgeLs+TrI50ZH8Qho1I1LxcZMYW9Pzu55PSJFJePXBiR5mHCXA3qsk0NLzWYsfIYkmL5uTNHPDQTxPvzHLf8ycElAe8y6SHmUOZneVUeBFPSM7Do+OU2P6an3LTFQXpmkYbobsa6xeoOj8Nm1no8rERdId6n/Q2pAQ0CorLnWn/ENdRBszTmsZq6l8EIw8WXzsbkNc1U3nsX7Fq7atvmWd4Lb9IQOY4dT/76u2+Dv7xj9yyiFwe5rQ713N7piBlrdinN5lHXpij29ODxnSnhaYFJ51nhgQb5jm8DocPTVawwjcLdYxj3vSF1e99GNaUDosqTtgZHFv++1R8k0rY4LPyDxVWIeb7FSzWmPUNbJMQwkaEmcdTXyu5lOYteVkay6W910FueaT1Ia8uGGEDC6sFdetaSVdtxJWpsdo8lOo/mZCQEchdeNek2F/94JhL4S5ZrTrj+X8PB0iFCZc2eVTdnXmGHstedB3w1kFiHlKOMm8eKyvbijAQzQdyR8m2luxO4oF1fmeoCclMwLpXCqj3Rmnv7NxwpgfCvImr3Q1+MqlrcsA4KI04n2FMLVdIGEZaPtry50MpE9YqWR5VZIue5dyC7d8UwLAcmB71t23yS0p23l1Kh5s5rW1rRU4="
+
+
