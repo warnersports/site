@@ -10,4 +10,4 @@ Warner Youth Sports Association (WYSA) is a charitable non-profit organization d
 
 {{% board-members %}}
 
-Feel free to contact us. We are hear to answer questions.
+Feel free to contact us. We are hear to answer questions!
