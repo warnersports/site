@@ -5,7 +5,7 @@ install:
 - tar -zxf hugo*.tar.gz hugo
 
 script:
-- hugo
+- ./hugo
 
 deploy:
   provider: firebase
