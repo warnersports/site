@@ -4,7 +4,7 @@ node_js:
 
 install:
 - wget https://github.com/gohugoio/hugo/releases/download/v0.34/hugo_0.34_Linux-64bit.tar.gz -O ../hugo.tar.gz
-- tar -zxf ../hugo.tar.gz hugo -C ..
+- tar -C .. -zxf ../hugo.tar.gz hugo
 
 script:
 - ../hugo
