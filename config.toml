@@ -1,4 +1,4 @@
-baseURL = "http://warnersports.org/"
+baseURL = "https://wysa-site.firebaseapp.com/"
 languageCode = "en-us"
 title = "WYSA"
 theme = "ananke"
