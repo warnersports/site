@@ -1,7 +1,7 @@
 ines (7 sloc)  274 Bytes
 open:
 - name: Softball
-  regLink:https://go.teamsnap.com/forms/179015
+  regLink: https://go.teamsnap.com/forms/179015
   extra: (<a href="softball_faq">FAQ</a>) "- $55 first child, $30 each additional"
 
 - name: Baseball/T-ball
