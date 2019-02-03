@@ -1,4 +1,9 @@
+ines (7 sloc)  274 Bytes
 open:
-- name: Fall Soccer
-  regLink: https://go.teamsnap.com/forms/125290
+- name: Softball
+  regLink:https://go.teamsnap.com/forms/179015
+  extra: (<a href="softball_faq">FAQ</a>) - $55 first child, $30 each additional
+
+- name: Baseball/T-ball
+  regLink: https://go.teamsnap.com/forms/178998
   extra: "- $55 first child, $30 each additional"
