@@ -1,52 +1,50 @@
 members:
-- role: President
+- role: President / Skiing/Snowboarding Co-Director
   name: Rachel De Thomas
   email: rdethomas@tds.net
-
-- role: Director of Registration
-  name: Jen Kucharski
-  email: jen@masonfox.com
-
+  
+- role: Treasurer
+  name: Nathan Kendrick
+  email: nathan.kendrick@gmail.com
+  
 - role: Secretary
   name: Sean O'Reilly
   email: Sean.OReilly@warnersports.org
 
-- role: Director of Fundraising
+
+- role: Baseball Director
+  name: Craig Harris
+  email: baseball.wysa@gmail.com
+  
+- role: Softball Co-Director
+  name: Heather Otten
+  email: redneckgrl23@yahoo.com
+
+- role: Softball Co-Director
+  name: Brock Coleman
+  email: brock.a.coleman@gmail.com
+  
+- role: Soccer Director / Fundraising Co-Director
   name: Andrea LeBlanc
   email: andrea@woodlawnkennels.com
 
-- role: Treasurer
-  name: Nathan Kendrick
-  email: nathan.kendrick@gmail.com
+- role: Director of Registration / Skiing / Snowboarding Co-Director
+  name: Jen Kucharski
+  email: jen@masonfox.com
+
+- role: Skiing / Snowboarding Co-Director
+  name: Glen Moyer
+  email: baldeagle03251@yahoo.com
+
+- role: Fundraising Co-Director
+  name: Aairka Reynolds
+  email: aarika83@hotmail.com
+
 
 - role: Concessions Coordinator
   name: Debbie Harris
   email: DJharrisNH@yahoo.com
 
-- role: Baseball Director
-  name: Craig Harris
-  email: craigcnh@yahoo.com
-
-- role: Softball Director
-  name: Apryl Blood
-  email: civiengr@tds.net
-
-- role: Ice Skating Skating Director
-  name: Griffin Manning
-  email: griffinmanning@gmail.com
-
-- role: Parks and Rec Liason
-  name: Griffin Manning
-  email: griffinmanning@gmail.com
-
-- role: Skiing / Snowboarding Director
-  name: Jen Kucharski
-  email: jen@masonfox.com
-
-- role: Skiing / Snowboarding Assistant Director
-  name: Rachel De Thomas
-  email: rdethomas@tds.net
-
-- role: Soccer Director
-  name: Andrea LeBlanc
-  email: andrea@woodlawnkennels.com
+- role: Volunteer Coordinator
+  name: Elizabeth White
+  email: elizabeth.white.03278@gmail.com
