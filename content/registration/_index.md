@@ -8,6 +8,8 @@ type: fake-single
 
 {{% open-registrations %}}
 
+Mail checks to WYSA, PO Box 20, Warner, NH 03278
+
 ## Interested in Volunteering?
 
 [Fill out our Volunteer form!](https://go.teamsnap.com/divisions/21111/registration/9635/register/new)
