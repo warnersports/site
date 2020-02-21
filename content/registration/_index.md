@@ -12,5 +12,5 @@ Mail checks to WYSA, PO Box 20, Warner, NH 03278
 
 ## Interested in Volunteering?
 
-Contact a board member using the About Page above or on our Facebook page.
+[Fill out our Volunteer form!](https://go.teamsnap.com/forms/220560)
 
