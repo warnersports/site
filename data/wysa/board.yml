@@ -3,26 +3,33 @@ members:
   name: Rachel De Thomas
   email: rdethomas@tds.net
   
+- role: Vice President / Fundraising Director
+  name: Andrea LeBlanc
+  email: woodlawnpet@gmail.com
+  
 - role: Treasurer
   name: Nathan Kendrick
   email: nathan.kendrick@gmail.com
   
 - role: Secretary
-  name: Sean O'Reilly
-  email: Sean.OReilly@warnersports.org
-
+  name: Aarika Reynolds
+  email: aairka83@hotmail.com
 
 - role: Baseball Director
   name: Craig Harris
   email: baseball.wysa@gmail.com
   
+- role: Baseball Director
+  name: Steven Bowers
+  email: stevenwb14@yahoo.com
+  
 - role: Softball Director
   name: Heather Otten
   email: redneckgrl23@yahoo.com
-  
-- role: Soccer Director / Fundraising Co-Director
-  name: Andrea LeBlanc
-  email: andrea@woodlawnkennels.com
+
+- role: Soccer Director
+  name: Kathleen Payne
+  email: knpayne0791@gmail.com
 
 - role: Director of Registration / Skiing / Snowboarding Co-Director
   name: Jen Kucharski
@@ -31,16 +38,19 @@ members:
 - role: Skiing / Snowboarding Co-Director
   name: Glen Moyer
   email: baldeagle03251@yahoo.com
-
-- role: Fundraising Co-Director
-  name: Aarika Reynolds
-  email: aarika83@hotmail.com
-
+  
+- role: Public Relations
+  name: Matt Esenwine
+  email: matt@mattforrest.com
 
 - role: Concessions Coordinator
   name: Debbie Harris
   email: DJharrisNH@yahoo.com
 
 - role: Volunteer Coordinator
-  name: Elizabeth White
-  email: elizabeth.white.03278@gmail.com
+  name: David Bates
+  email: dcbates70@gmail.com
+  
+- role: Information Technology
+  name: Sean O'Reilly
+  email: Sean.OReilly@warnersports.org
