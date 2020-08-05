@@ -6,9 +6,7 @@ type: fake-single
 
 ## Current Sports
 
-# A decision is not yet made regarding fall soccer or soccer camps.
-
-$\sqrt{a^2+b^2}=c$
+### A decision is not yet made regarding fall soccer or soccer camps.
 
 {{% open-registrations %}}
 
