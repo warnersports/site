@@ -6,6 +6,10 @@ type: fake-single
 
 ## Current Sports
 
+# A decision is not yet made regarding fall soccer or soccer camps.
+
+$\sqrt{a^2+b^2}=c$
+
 {{% open-registrations %}}
 
 Mail checks to WYSA, PO Box 20, Warner, NH 03278
