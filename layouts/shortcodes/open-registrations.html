@@ -1,7 +1,0 @@
-<ul>
-{{ range $.Site.Data.wysa.registrations.open }}
-  <li>
-    <a href="{{.regLink}}">{{.name}}</a>{{.extra | safeHTML}}
-  </li>
-{{ end }}
-</ul>
