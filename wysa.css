@@ -105,6 +105,13 @@ main hr {
     border: solid red 2px;
 }
 
+.announce-text {
+    font-size: 1.3em;
+    text-align: center;
+    padding: 1em;
+    border: solid red 2px;
+    margin: 1em auto;
+}
 main h1 {
     color: var(--wysa-blue, blue);
     text-align: center;
