@@ -106,10 +106,8 @@ main hr {
 }
 
 .announce-text {
-    font-size: 1.3em;
+    font-size: 1em;
     text-align: center;
-    padding: 1em;
-    border: solid red 2px;
     margin: 1em auto;
 }
 
