@@ -1,0 +1,18 @@
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 2em;
+}    
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+:root {
+--wysa-blue: #222d34ff;
+--background-gray: #f0f0f0ff;
+--gray-text: #dde6ecff;
+--navbar-gray: #464444ff;
+--accent: gold;
+}

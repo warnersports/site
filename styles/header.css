@@ -1,0 +1,44 @@
+/* HEADER STYLES */
+
+header {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+h1 {
+    text-align: left;
+    font-size: clamp(2.2rem, 2rem + 2vw, 4.3rem);
+    color: var(--wysa-blue);
+    max-width: 67%;
+    padding-left: 1em;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    align-self: center;
+}
+
+#logo {
+    display: block;
+    max-width: 20%;
+    background-color: white;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+header {
+    background-color: white;
+}
+/*
+@media screen and (max-width: 850px) {
+h1 { font-size: 2.9rem; }
+}
+*/
+
+@media screen and (max-width: 50rem) {
+h1 { font-size: 0; }
+#logo { max-width: 45%; }
+}
+
+
