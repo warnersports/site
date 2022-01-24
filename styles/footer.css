@@ -1,0 +1,42 @@
+/* FOOTER STYLE */
+footer {
+    background-color: var(--wysa-blue);
+    padding: 2rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+
+
+footer > * {
+    text-align: center;
+    color: var(--gray-text);
+}
+
+address {
+    padding: 5px;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+address p:not(:last-of-type) {
+    font-weight: bold;
+} 
+
+footer p {
+    margin: 0;
+    padding: 0;
+    font-size: 1rem;
+}
+
+.description {
+    padding: 0 10px;
+    max-width: 90ch;
+    text-align: justify;
+    font-size: .8em;
+}
+

@@ -1,0 +1,59 @@
+/* NAVIGATION STYLES */
+nav {
+    background-color: white; 
+    position: sticky;
+    top: 0;
+    padding-bottom: 1px;
+}
+
+@media screen and (max-width: 23rem) {
+    nav {
+        position: relative;
+    }
+}
+
+
+nav ul {
+    font-size: 1.2em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style-type: none;
+    margin: .3em auto;
+    padding: 0px 0;
+    gap: 0.2em 2em;
+    max-width: 110ch;
+}
+nav > ul > li {
+    flex: 1 1 10%;
+    text-align: center; 
+    white-space: nowrap;
+    max-width: 20ch;
+
+}
+
+nav a:link, 
+nav a:visited {
+    font-weight: bold;
+    display: block;
+    padding: .2em;
+    border-bottom: 2px solid var(--wysa-blue);
+    color: var(--wysa-blue);
+    text-decoration: none;
+}
+
+nav a:hover, nav a:focus {
+    border-bottom: 2px solid gold;
+}
+
+nav a:focus {
+    outline: 1px solid gold;
+}
+
+
+nav a:active {
+    background-color: var(--wysa-blue);
+    color: white;
+}
+
+
