@@ -1,115 +1,124 @@
-<!DOCTYPE html>
+<!DOCTYPE html> <html lang=en-us>
+<head>
+<title>WYSA | Warner Youth Sports Association</title>
+<meta charset="UTF-8">
+<meta property="og:title" content="Warner Youth Sports Association">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://warnersports.org/">
 
-<html lang=en-us>
-  <head>
-    <title>WYSA | Warner Youth Sports Association</title>
+<meta name="description" content="Website for WYSA: Warner Youth Sports Association. Non-profit for youth sports in Warner, New Hampshire, USA.">
+<meta name="keywords" content="youth, sports, Warner, New Hampshire, soccer, baseball, softball, ski, snowboard">
+<meta name="author" content="Sciolus">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+<link rel="stylesheet" type="text/css" href="styles/starter.css">
+<link rel="stylesheet" type="text/css" href="styles/header.css">
+<link rel="stylesheet" type="text/css" href="styles/nav.css">
+<link rel="stylesheet" type="text/css" href="styles/footer.css">
+<link rel="stylesheet" type="text/css" href="styles/wysa.css">
 
-    <meta charset="UTF-8">
-    <meta property="og:title" content="Warner Youth Sports Association">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://warnersports.org/">
-    <meta name="description" content="Website for WYSA: Warner Youth Sports Association. Non-profit for youth sports in Warner, New Hampshire, USA.">
-    <meta name="keywords" content="youth sports, Warner, New Hampshire, soccer, baseball, softball, ski, snowboard">
-    <meta name="author" content="N. Kendrick">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <link rel="stylesheet" href="wysa.css">
-    
+<!--
+<base href="http://warnersports.github.io/site/" target="_self">
+-->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&display=swap" rel="stylesheet"> 
+
 </head>
-
-
-
 <body>
-  
-<!-- NAVBAR -->
-<div id="navbar">
-<p>WYSA</p>
-<nav role="navigation"> 
-<a href="index.html"> Main   </a>
-<a href="sports.html"> Sports </a>
-<a href="board.html"> Board  </a>
-<a href="support.html"> Support </a>
-</nav>
-</div>
-  
 <header>
+<img id="logo" src="logos/wysa-256.png" alt="WYSA Logo" />
 
-<!-- Header title and photo -->
 <h1>Warner Youth Sports Association</h1>
+
+
 </header>
-
+<nav>
+    <ul>
+        <li><a href="index.html">Announcements</a></li>
+        <li><a href="sponsors.html">Our Sponsors</a></li>
+        <li><a href="sports.html">Our Sports</a></li>
+        <li><a href="volunteers.html">Our Volunteers</a></li>
+        <li><a href="fundraising.html">Fundraising</a></li>
+        <li><a href="https://www.facebook.com/wysayouthsports">Our Facebook Page</a></li>
+    </ul>
+</nav>
 <main>
-<h1 id="sports">Sports Offered</h1>
+<h2 id="sports">Sports Offered</h2>
+<div class='list-of-sports'>
+    <article class='sport' id='baseball'>
+        <h3>Baseball</h3>
+        <p>March through June.</p>
+        <p>Ages:&nbsp;5&nbsp;to&nbsp;12.</p>
+        <p>Teams: T-Ball (5-6yo), Rookies (7-8yo), Minors (9-10yo), Majors (11-12yo)</<p>
+        <p>Organized through Kearsarge Valley Cal Ripken League.</p>
+        <!--
+        <p>Registration opens in January.</p>
+        -->
+        <p><a class="register-button" href="https://go.teamsnap.com/forms/299336">Register on TeamSnap</a></p>
+    </article>
+    <article class='sport' id='softball'>
+        <h3>Softball</h3>
+        <p>March through June.</p>
+        <p>Ages:&nbsp;6&nbsp;to&nbsp;12.</p>
+        <p>Teams: U-8, U-10, U-12</p>
+        <p>Organized through <a href="http://www.kmsbr.org">Kearsarge Mountain South.</a><br></p>
+        <!--
+        <p>Registration opens in January.</p>
+        -->
+        <p><a class="register-button" href="https://go.teamsnap.com/forms/299336">Register on TeamSnap</a></p>
+    </article>
 
-<h2>Spring</h2>
-<h3>Baseball</h3>
-<p>
-March through June.<br>
-Ages:&nbsp;5&nbsp;to&nbsp;12.<br>
-Teams: T-Ball (5-6yo), Rookies (7-8), Minors (9-10), and Majors (11-12).<br>
-Organized through Kearsarge Valley Cal Ripken League.<br>
-  Registration opens in January.
-<!--
-<em><a href="https://go.teamsnap.com/forms/255866">Register on TeamSnap.</a></em>
--->
-</p>
+    <article class='sport' id='spring-soccer'>
+        <h3>Spring Soccer Clinic</h3>
+        <p>May</p>
+        <p>Ages:&nbsp;4&nbsp;to&nbsp;14.</p>
+        <p>Tuesdays for four weeks after school at Simonds Elementary. Professional coach and team from New England College. Pre-K/K and grade-school clinics.</p>
+        <p>Registration opens in March.</p>
+        <!--  
+            <em><a href="https://go.teamsnap.com/forms/263331">Register on TeamSnap</a> by 4/13.</em>
+        -->
+    </article>
 
-<h3>Softball</h3>
-<p>
-March through June.<br>
-Ages:&nbsp;6&nbsp;to&nbsp;12.<br>
-Teams: U-8, U-10, U-12<br>
-  Organized through <a href="http://www.kmsbr.org">Kearsarge Mountain South.</a><br>
-  Registration opens in January.
-  <!--
-  <em><a href="https://go.teamsnap.com/forms/255866">Register on TeamSnap.</a></em>
--->
-</p>
-
-<h3>Spring Soccer Clinic</h3>
-<p>May<br>
-Ages:&nbsp;4&nbsp;to&nbsp;14.<br>
-Tuesdays for four weeks after school at Simonds Elementary.<br>
-Professional coach and team from New England College.<br>
-Pre-K/K and grade-school clinics.<br>
-  Registration opens in March.
-<!--  
-<em><a href="https://go.teamsnap.com/forms/263331">Register on TeamSnap</a> by 4/13.</em>
--->
-  </p>
-
-<h2>Fall</h2>
-<h3>Soccer</h3>
-<p>
-September through October.<br>
-Ages:&nbsp;4&nbsp;to&nbsp;12.<br>
-Teams: PreK/K, 1/2, 3/4 Boys, 3/4 Girls, 5/6 Boys, 5/6 Girls<br>
-  Organized through <a href="http://www.mvsl.org">Merrimack Valley Soccer League.</a><br>
-Volunteer coaches.<br>
-Pre-K/K is practice only. 1/2 plays locally with Bradford and New London, games on Saturday mornings. Practices usually begin the first week of school.<br>
-3/4 and 5/6 play in MVSL with several local towns, games alternating Fridays, and Saturday afternoons. Practice usually begins the week prior to school starting.<br>
-  
-Registration opens in July.
-<!--  <em><a href="https://go.teamsnap.com/forms/276592">Register on TeamSnap.</a></em> -->
-  </p>
-
-<h2>Winter</h2>
-<h3>Ski/Snowboard Program</h3>
-<p>
-December through February.<br>
-Ages:&nbsp;4&nbsp;to&nbsp;18.<br>
-Organized through WYSA and Pat's Peak.<br>
-Buses provided from Simonds, and Kearsarge Middle and High School.<br>
-  Registration opens in November.
-<!--
-<em>Register by email to ___</em>
--->
-</p>
-
+    <article class='sport' id='fall-soccer'>
+        <h3>Soccer</h3>
+        <p>September through October.</p>
+        <p>Ages:&nbsp;4&nbsp;to&nbsp;12.</p>
+        <p>Teams: PreK/K Coed, 1/2 Coed, 3/4 Boys, 3/4 Girls, 5/6 Boys, 5/6 Girls</p>
+        <p>Organized through <a href="http://www.mvsl.org">Merrimack Valley Soccer League.</a> Volunteer coaches.</p>
+        <p>Pre-K/K is practice only. 1/2 plays locally with Bradford and New London, games on Saturday mornings. Practices usually begin the first week of school.</p>
+        <p>3/4 and 5/6 play in MVSL with several local towns, games alternating Fridays, and Saturday afternoons. Practice usually begins the week prior to school starting.</p>
+        <p>Registration opens in July.</p>
+        <!--  <em><a href="https://go.teamsnap.com/forms/276592">Register on TeamSnap.</a></em> -->
+        </p>
+    </article>
+    <article class='sport' id='skiing'> 
+        <h3>Ski/Snowboard Program</h3>
+        <p>December through February.</p>
+        <p>Ages:&nbsp;4&nbsp;to&nbsp;18.</p>
+        <p>Organized through WYSA, instruction provided by Pats Peak, followed by one hour of free-skiing with WYSA chaperones. No transportation provided this year due to shortage of bus drivers.</p>
+        <p>Registration opens in November.</p>
+        <!--
+            <em>Register by email to ___</em>
+        -->
+    </article>
 </main>
-
 <footer>
-  <p>Warner Youth Sports Association, PO Box 20, Warner, NH 03278</p>
+<address>
+        <p>P.O. Box 20</p>
+        <p>Warner, NH 03278</p>
+        <p>contact@warnersports.org</p>
+</address>
+
+<div class="description">
+<p><strong>Warner Youth Sports Association (<abbr>WYSA</abbr>)</strong> 
+is a charitable <em>non-profit</em> organization dedicated to giving 
+<em>every</em> child in Warner the opportunity to participate in local 
+sports, regardless of their ability to pay. We are an <em>all-volunteer</em> 
+organization, funded by local business donations, fundraisers, and 
+individual registration fees.</p>
+</div>
+    <p>Design and Code by Nathan Kendrick. 2022.</p>
 </footer>
 
 </body>
