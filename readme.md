@@ -2,6 +2,10 @@ WYSA Public Web Site
 
 WORK TO DO:
 
+SMALL FIXES
+
+- Make external hyperlinks open new window.
+
 CONTENT
 
 - Add donation button
