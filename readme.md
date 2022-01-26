@@ -8,6 +8,7 @@ SMALL FIXES
 
 CONTENT
 
+- Add photos to home page and sports
 - Add donation button
 - Figure out and add Sign-up to join or leave announce email list
 - Add links to other sports (Bradford, etc), (Field House)
