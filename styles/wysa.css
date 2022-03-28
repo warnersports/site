@@ -46,6 +46,9 @@ p, ul  {
     margin-inline: auto;
 }
 
+img {
+    max-width: 90vw;
+}
 
 /* DEFAULT HYPERLINK STYLES */
 a:link {
