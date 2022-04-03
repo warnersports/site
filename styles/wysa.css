@@ -241,6 +241,10 @@ dd a:hover, dd a:focus {
     max-width: 40rem;
 }
 
+.sports-detail p {
+    font-size: 0.8em;   
+}
+
 /* STYLES REGISTRATION BUTTONS */
 .register-button {
     display: block;
