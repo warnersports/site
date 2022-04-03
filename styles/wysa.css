@@ -229,8 +229,8 @@ dd a:hover, dd a:focus {
 }
 
 /* BOLDS AND ENLARGES FIRST TWO ELEMENTS OF SPORTS DESCRIPTION */
-.sport p:first-of-type,
-.sport p:nth-of-type(2) {
+.sport > p:first-of-type,
+.sport > p:nth-of-type(2) {
     font-size: 1.5em;
     font-weight: bold;
 }
