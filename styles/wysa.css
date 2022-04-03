@@ -241,8 +241,8 @@ dd a:hover, dd a:focus {
     max-width: 40rem;
 }
 
-.sports-detail p {
-    font-size: 0.8em;   
+.sports-details p {
+    font-size: 1.2em;   
 }
 
 /* STYLES REGISTRATION BUTTONS */
