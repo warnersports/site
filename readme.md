@@ -1,25 +1,38 @@
-WYSA Public Web Site
+# WYSA Public Web Site
 
-WORK TO DO:
+## Description:
 
-SMALL FIXES
+Landing page for Warner Youth Sports Association of Warner, NH.
 
-- Make external hyperlinks open new window.
+Straight HTML and CSS. No JavaScript, static site generator, or other packages (yet).
 
-CONTENT
+See comments in code for how to add/modify sponsors, volunteers, or sports.
 
+Very much a work-in-progress...
+
+
+## WORK TO DO:
+
+### CONTENT
+ 
+- Update Facebook iframe to current code standards
 - Add photos to home page and sports
 - Add donation button
-- Figure out and add Sign-up to join or leave announce email list
-- Add links to other sports (Bradford, etc), (Field House)
+- Figure out and add "join announce email" link
+- Add links to other sports associations and providers (Bradford, etc), (Field House)
 - Add links to league websites
+- Add photos page, auto-scroll
 
+### DESIGN
 
-DESIGN
-
-- Refine sponsors and sports
+- Add more white space to top and bottom of content
+- Refine sports tiles:
+  - Consistent format and fonts
+  - Add photo frame
 - Make Facebook frame move to sidebar at large screen widths
 - Better nav for mobile (collapsing)
+- Refine fundraising format
+
 
 
 
