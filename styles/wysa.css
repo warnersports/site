@@ -145,7 +145,7 @@ dd a:hover, dd a:focus {
 .sponsors img {
     display: block;
     margin: auto;
-    width: 200px;
+    width: 19rem;
     min-height: 100px;
 }
 
@@ -184,26 +184,26 @@ dd a:hover, dd a:focus {
 }
 
 /* ADJUST TILING FOR DIFFERENT SCREEN SIZES */
-@media screen and (min-width: 48rem) {
+@media screen and (min-width: 52rem) {
     .sponsors {
-        grid-template-columns: repeat(2, 22rem);
+        grid-template-columns: repeat(2, 24rem);
     }
 }
-@media screen and (min-width: 70rem) {
+@media screen and (min-width: 76rem) {
     .sponsors {
-        grid-template-columns: repeat(3, 22rem);
-    }
-}
-
-@media screen and (min-width: 93rem) { 
-    .sponsors {
-        grid-template-columns: repeat(4, 22rem);
+        grid-template-columns: repeat(3, 24rem);
     }
 }
 
-@media screen and (min-width: 116rem) { 
+@media screen and (min-width: 102rem) { 
     .sponsors {
-        grid-template-columns: repeat(5, 22rem);
+        grid-template-columns: repeat(4, 24rem);
+    }
+}
+
+@media screen and (min-width: 126rem) { 
+    .sponsors {
+        grid-template-columns: repeat(5, 24rem);
     }
 }
 
