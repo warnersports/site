@@ -47,7 +47,7 @@ p, ul  {
 }
 
 img {
-    max-width: 90vw;
+    max-width: min(90vw,60rem);
 }
 
 /* DEFAULT HYPERLINK STYLES */
