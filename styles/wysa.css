@@ -17,7 +17,8 @@ h1, h2, h3 {
 }
 
 h2 {
-    margin: 10px auto ;
+    margin-top: 3rem;
+    margin-inline: auto ;
     max-width: 40ch;
     font-size: clamp(1.25rem, 4vw + .5rem, 4rem);
     padding: .3em;
@@ -26,6 +27,7 @@ h2 {
     text-transform: uppercase;
     color: var(--wysa-blue);
     border-bottom: 2px solid gold;
+    margin-bottom: 3rem;
 }
 
 h3 {
@@ -228,22 +230,33 @@ dd a:hover, dd a:focus {
     .sport {width: 100%;}
 }
 
-/* BOLDS AND ENLARGES FIRST TWO ELEMENTS OF SPORTS DESCRIPTION */
-.sport > p:first-of-type,
-.sport > p:nth-of-type(2) {
-    font-size: 1.5em;
+.sport {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.sport img {
+    width: 100%;
+    height: auto;
+    margin-inline: auto;
+    margin-bottom: 1rem;
+    border-radius: .5rem;
+    border: solid black 2px;
+}
+
+p.sportsdates, p.sportsages {
     font-weight: bold;
 }
 
-.sport p {
-    margin-top: .7em;
-    margin-bottom: .3em;
-    max-width: 40rem;
+div.sports-details p {
+    font-size: 1rem;
 }
 
-.sports-details p {
-    font-size: 1.2em;   
+p.sportsregistration {
+    font-weight: bold;
 }
+
 
 /* STYLES REGISTRATION BUTTONS */
 .register-button {
