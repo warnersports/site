@@ -293,3 +293,8 @@ p.sportsregistration {
     background-color: gold;
     color: var(--wysa-blue);
 }
+
+article > ol {
+    font-size: 1.5em;
+    list-style: decimal inside none;
+}
