@@ -74,14 +74,16 @@ table {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    border-spacing: .3em;
 }
 
 th {
     background: lightgrey;
 }
 
-th, tr {
-    padding: .3 em;
+th, td {
+    padding-left: 1em;
+    padding-right: 1em;
 }
 
 
