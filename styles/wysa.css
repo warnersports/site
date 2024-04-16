@@ -78,6 +78,12 @@ table {
     border-spacing: .3em;
 }
 
+@media screen and (max-width: 60rem) {
+    table {
+        font-size: 1.5em;
+    }
+}
+
 @media screen and (max-width: 40rem) {
     table {
         font-size: 1em;
