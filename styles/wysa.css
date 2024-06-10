@@ -52,6 +52,10 @@ img {
     max-width: min(90vw,60rem);
 }
 
+img.small {
+    max-width: min(90vw,40rem;
+}
+
 /* DEFAULT HYPERLINK STYLES */
 a:link {
     color: var(--wysa-blue);
