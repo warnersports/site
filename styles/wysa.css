@@ -53,7 +53,7 @@ img {
 }
 
 img.small {
-    max-width: min(90vw,40rem;
+    max-width: min(90vw,40rem);
 }
 
 /* DEFAULT HYPERLINK STYLES */
